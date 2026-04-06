@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://global-music-pro-082a1dc9.zappy5.app/sitemap.xml
