@@ -1,45 +1,35 @@
-# Global Music Pro — Generative Engine Optimization Map
-
-> Global Music Pro is a professional B2B platform focused on musical content management for the business sector. The brand aims to deliver a winning customer experience, combining the creative world of music with the professionalism and efficiency demanded by corporate clients. The platform bridges the gap between music and business, offering tailored solutions for companies seeking to integrate or manage musical content at an enterprise level.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://global-music-pro-082a1dc9.zappy5.app
+https://example.com
 גלה את הפלטפורמה המקצועית לניהול תוכן מוזיקלי לעסקים. מוזיקת רקע לעסקים בישראל, פתרונות מותאמים למגזר העסקי. הצטרף עכשיו!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://global-music-pro-082a1dc9.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://global-music-pro-082a1dc9.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://global-music-pro-082a1dc9.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Global Music Pro
-Global Music Pro is a professional B2B platform focused on musical content management for the business sector. The brand aims to deliver a winning customer experience, combining the creative world of music with the professionalism and efficiency demanded by corporate clients. The platform bridges the gap between music and business, offering tailored solutions for companies seeking to integrate or manage musical content at an enterprise level.
-
-## Target Audience
-עסקים במגזר העסקי
-
-## Industry
-מוזיקה ועסקים
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://global-music-pro-082a1dc9.zappy5.app/sitemap.xml
-- **Robots.txt**: https://global-music-pro-082a1dc9.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
